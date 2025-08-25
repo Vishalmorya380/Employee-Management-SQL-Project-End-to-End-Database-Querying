@@ -63,22 +63,22 @@ It covers **DDL, DML, TCL, Joins, Aggregates, Subqueries, CTEs, Window Functions
 - Group employees by department and gender.  
 
 ### 🔹 Section 5: Joins  
-![Joins](images/joins.png)  
+![Joins](https://github.com/Vishalmorya380/Employee-Management-SQL-Project-End-to-End-Database-Querying/blob/main/Joins.png)  
 - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN.  
 - Employees with salaries, departments without employees, etc.  
 
 ### 🔹 Section 6: Subqueries & CTEs  
-![Subqueries and CTEs](images/subqueries.png)  
+![Subqueries and CTEs](https://github.com/Vishalmorya380/Employee-Management-SQL-Project-End-to-End-Database-Querying/blob/main/Sub%20Queries.png)  
 - Salary above average, second highest salary.  
 - CTEs for ranking and net salary.  
 
 ### 🔹 Section 7: Window Functions  
-![Window Functions](images/window.png)  
+![Window Functions](https://github.com/Vishalmorya380/Employee-Management-SQL-Project-End-to-End-Database-Querying/blob/main/Window%20Function.png)  
 - RANK, LEAD, LAG, SUM OVER, MAX OVER.  
 - Analyze salary distribution, cumulative salary, percent contribution.  
 
 ### 🔹 Section 8: Set Operators  
-![Set Operators](images/set.png)  
+![Set Operators](https://github.com/Vishalmorya380/Employee-Management-SQL-Project-End-to-End-Database-Querying/blob/main/Sets.png)  
 - UNION, UNION ALL, INTERSECT, EXCEPT.  
 - Compare employees, departments, and projects.
 
