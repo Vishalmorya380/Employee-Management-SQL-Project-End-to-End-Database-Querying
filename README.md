@@ -53,7 +53,7 @@ It covers **DDL, DML, TCL, Joins, Aggregates, Subqueries, CTEs, Window Functions
 - Delete employees based on conditions.  
 
 ### 🔹 Section 3: TCL (Transaction Control Language)  
-![TCL Queries](images/tcl.png)  
+![TCL Queries](https://github.com/Vishalmorya380/Employee-Management-SQL-Project-End-to-End-Database-Querying/blob/main/TCl.png)  
 - Transactions with `COMMIT`, `ROLLBACK`, and `SAVEPOINT`.  
 - Ensures **data consistency**.  
 
@@ -83,6 +83,15 @@ It covers **DDL, DML, TCL, Joins, Aggregates, Subqueries, CTEs, Window Functions
 - Compare employees, departments, and projects.
 
 ---
+
+---
+
+#  in our queryies below we remane tha table from Salaries to EmployeeSalaries----
+select * from Employees
+select * from Departments
+select * from Salaries
+select * from Projects
+select * from EmployeeSalaries
 
 ---
 
